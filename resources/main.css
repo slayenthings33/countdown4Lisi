@@ -30,8 +30,8 @@ p{
     color: #2DD2FC;
     -webkit-text-stroke: 2px black; /* width and color */
 }
-#pic {
-    width: 70vw;
+.pic {
+    width: 20vw;
     height: auto;
     border: black solid 2px;
     border-radius: 20px;
