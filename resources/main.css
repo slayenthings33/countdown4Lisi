@@ -37,9 +37,3 @@ p{
     border-radius: 20px;
     margin: 0;
 }
-#pic:hover {
-    content: url(/resources/pinchyNipy.gif);
-}
-#pic:active {
-    content: url(/resources/lipBite.gif);
-}
